@@ -11,7 +11,6 @@ import {
   ModuleRegistry,
   EventApiModule,
   ValidationModule,
-  type FirstDataRenderedEvent
 } from 'ag-grid-community';
 import { TreeDataModule } from 'ag-grid-enterprise';
 
