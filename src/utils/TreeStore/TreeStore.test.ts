@@ -1,6 +1,6 @@
 import { describe, it, expect, beforeEach } from 'vitest';
 import TreeStore from './TreeStore.ts'
-import { type TreeItem } from '../types/types.ts'
+import { type TreeItem } from '../../types/types.ts'
 
 const testItems: TreeItem[] = [
     { id: 1, parent: null, label: 'Айтем 1' },

@@ -1,4 +1,4 @@
-import { type TreeItem } from '../types/types.ts';
+import { type TreeItem } from '../../types/types.ts';
 
 class TreeStore {
     private items: TreeItem[] = [];
